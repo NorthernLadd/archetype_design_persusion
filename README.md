@@ -15,7 +15,7 @@ Put each group members name, archetype, and a link to their page that explains w
 ## Archetypes 1-12
 - [The Caregiver](caregiver.md)
 - [The Creator](creator.md)
-- [The Everyman](everyman.md)- 
+- [The Everyman](everyman.md) 
 - [The Explorer](explorer.md)
 - [The Hero](hero.md)
 - [The Innocent](innocent.md)
@@ -26,7 +26,14 @@ Put each group members name, archetype, and a link to their page that explains w
 - [The Ruler](ruler.md)
 - [The Sage](sage.md)
 
-## Methods of Persusion 1-7 Cialdini
+## Methods of Persuasion 1-7 Cialdini
+- [Authority](authority.md)
+- [Consistency](consistency.md)
+- [Liking](liking.md)
+- [Reciprocity](reciprocity.md)
+- [Scarcity](scarcity.md)
+- [Social Proof](social-proof.md)
+- [Unity](unity.md)
 ## Design Styles within modernism and postmodernism
 ### Modernism - 6 styles
 ### Post Modernism - 6 styles 
