@@ -35,5 +35,6 @@ Put each group members name, archetype, and a link to their page that explains w
 - [Social Proof](social-proof.md)
 - [Unity](unity.md)
 ## Design Styles within modernism and postmodernism
+- Below, we have collected examples of architectural design that reflect modernist and postmodernist styles.
 ### Modernism - 6 styles
 ### Post Modernism - 6 styles 
