@@ -12,7 +12,7 @@ Put each group members name, archetype, and a link to their page that explains w
 3. [Justin Santiago, Hero](justin_santiago.md)
 4. [Victoria Pereyra, Jester](victoria_pereyra.md)
 
-## Archetypes 1-12
+## The 12 Brand Archetypes
 - [The Caregiver](caregiver.md)
 - [The Creator](creator.md)
 - [The Everyman](everyman.md) 
@@ -26,7 +26,7 @@ Put each group members name, archetype, and a link to their page that explains w
 - [The Ruler](ruler.md)
 - [The Sage](sage.md)
 
-## Methods of Persuasion 1-7 Cialdini
+## Cialdini's 7 Methods of Persuasion
 - [Authority](authority.md)
 - [Consistency](consistency.md)
 - [Liking](liking.md)
@@ -34,7 +34,7 @@ Put each group members name, archetype, and a link to their page that explains w
 - [Scarcity](scarcity.md)
 - [Social Proof](social-proof.md)
 - [Unity](unity.md)
-## Design Styles within modernism and postmodernism
+## Design Styles Within Modernism & Postmodernism
 - Below, we have collected examples of architectural design that reflect modernist and postmodernist styles.
 ### Modernism - 6 styles
 ### Post Modernism - 6 styles 
