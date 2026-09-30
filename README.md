@@ -1,9 +1,7 @@
 # Brand Archetypes, Design Styles, and Methods of Persuasion
 
-## Exercise 
-1.  Each member of the group find your own brand archetype by asking ai(Gemini, ChatGPT, Claude, etc...) to help you discover it.
-2.  Ask the AI why it thinks this is your brand archetype.
-3.  Ask the AI for the imagery, colors, fonts, and phrasing for examples of Robert Cialdini's methods of persuasion
+## Introduction
+We are the four people who worked on this project. We first discovered our unique brand archetypes with the help of an AI model (Gemini, ChatGPT, Claude, etc...). We then asked the AI why it thinks our assigned brand archetype fits us, and also asked it to provide imagery, colors, fonts, and phrasing for examples of Robert Cialdini's methods of persuasion (see below).
 
 ### - First Assignment
 Put each group members name, archetype, and a link to their page that explains why that archetype was chosen and if they agree
@@ -12,7 +10,7 @@ Put each group members name, archetype, and a link to their page that explains w
 3. [Justin Santiago, Hero](justin_santiago.md)
 4. [Victoria Pereyra, Jester](victoria_pereyra.md)
 
-## Archetypes 1-12
+## The 12 Brand Archetypes
 - [The Caregiver](caregiver.md)
 - [The Creator](creator.md)
 - [The Everyman](everyman.md) 
@@ -26,7 +24,7 @@ Put each group members name, archetype, and a link to their page that explains w
 - [The Ruler](ruler.md)
 - [The Sage](sage.md)
 
-## Methods of Persuasion 1-7 Cialdini
+## Cialdini's 7 Methods of Persuasion
 - [Authority](authority.md)
 - [Consistency](consistency.md)
 - [Liking](liking.md)
@@ -34,6 +32,19 @@ Put each group members name, archetype, and a link to their page that explains w
 - [Scarcity](scarcity.md)
 - [Social Proof](social-proof.md)
 - [Unity](unity.md)
-## Design Styles within modernism and postmodernism
+## Design Styles Within Modernism & Postmodernism
+- Below, we have collected examples of architectural design that reflect modernist and postmodernist styles.
 ### Modernism - 6 styles
+1. (name, link to design)
+2. (name, link to design)
+3. (name, link to design)
+4. (name, link to design)
+5. (name, link to design)
+6. (name, link to design)
 ### Post Modernism - 6 styles 
+1. (name, link to design)
+2. (name, link to design)
+3. (name, link to design)
+4. (name, link to design)
+5. (name, link to design)
+6. (name, link to design)
