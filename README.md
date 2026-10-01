@@ -1,10 +1,10 @@
 # Brand Archetypes, Design Styles, and Methods of Persuasion
 
 ## Introduction
-We are the four people who worked on this project. We first discovered our unique brand archetypes with the help of an AI model (Gemini, ChatGPT, Claude, etc...). We then asked the AI why it thinks our assigned brand archetype fits us, and also asked it to provide imagery, colors, fonts, and phrasing for examples of Robert Cialdini's methods of persuasion (see below).
+This is a spinoff of IS-117's Archetype Design Persuasion project. We first discovered our unique brand archetypes with the help of an AI model (Gemini, ChatGPT, Claude, etc...). We then asked the AI why it thinks our assigned brand archetype fits us, and also asked it to provide imagery, colors, fonts, and phrasing for examples of Robert Cialdini's methods of persuasion (see below).
 
-### - First Assignment
-Put each group members name, archetype, and a link to their page that explains why that archetype was chosen and if they agree
+### - About the Team
+Below is each members name, archetype, and a link to their page that explains why that archetype was chosen and if they agree.
 1. [Dominique Logan, Sage](dominique_logan.md)
 2. [David Jimenez, Hero](david_jimenez.md)
 3. [Justin Santiago, Hero](justin_santiago.md)
@@ -48,3 +48,6 @@ Put each group members name, archetype, and a link to their page that explains w
 4. [Jewish Museum Berlin](post_modernism_style_4.md)
 5. [Heydar Aliyev Center by Zaha Hadid](post_modernism_style_5.md)
 6. [City of Arts and Sciences by Santiago Calatrava](post_modernism_style_6.md)
+
+## Examples of Original Brand Advertising
+1. 
