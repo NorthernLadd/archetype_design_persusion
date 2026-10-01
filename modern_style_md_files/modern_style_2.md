@@ -1,6 +1,6 @@
 # Modern Styles Based on the Image
 
-![Image two](../modern_style_images/ms2.png)
+![Image two](../modern_style_images/ms2.jpg)
 
 ## Overview
 
