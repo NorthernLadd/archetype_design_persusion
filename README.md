@@ -11,7 +11,7 @@ Put each group members name, archetype, and a link to their page that explains w
 4. [Victoria Pereyra, Jester](victoria_pereyra.md)
 
 ## The 12 Brand Archetypes
-- [The Caregiver](caregiver.md)
+- [The Caregiver](brand-archetypes/caregiver.md)
 - [The Creator](creator.md)
 - [The Everyman](everyman.md) 
 - [The Explorer](explorer.md)
