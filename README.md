@@ -42,7 +42,7 @@ Put each group members name, archetype, and a link to their page that explains w
 5. (name, link to design)
 6. (name, link to design)
 ### Post Modernism - 6 styles 
-1. (name, link to design)
+1. [Vanna Venturi House](post_modernism_style_1.md)
 2. (name, link to design)
 3. (name, link to design)
 4. (name, link to design)
