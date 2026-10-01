@@ -44,7 +44,7 @@ Put each group members name, archetype, and a link to their page that explains w
 ### Post Modernism - 6 styles 
 1. [Vanna Venturi House](post_modernism_style_1.md)
 2. [Piazza d'Italia by Charles Moore](post_modernism_style_2.md)
-3. (name, link to design)
+3. [Guggenheim Museum Bilbao](post_modernism_style_3.md)
 4. (name, link to design)
 5. (name, link to design)
 6. (name, link to design)
