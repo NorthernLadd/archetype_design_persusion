@@ -45,6 +45,6 @@ Put each group members name, archetype, and a link to their page that explains w
 1. [Vanna Venturi House](post_modernism_style_1.md)
 2. [Piazza d'Italia by Charles Moore](post_modernism_style_2.md)
 3. (name, link to design)
-4. (name, link to design)
+4. [Jewish Museum Berlin](post_modernism_style_4.md)
 5. (name, link to design)
 6. (name, link to design)
