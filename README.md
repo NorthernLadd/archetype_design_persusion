@@ -12,17 +12,17 @@ Put each group members name, archetype, and a link to their page that explains w
 
 ## The 12 Brand Archetypes
 - [The Caregiver](brand-archetypes/caregiver.md)
-- [The Creator](creator.md)
-- [The Everyman](everyman.md) 
-- [The Explorer](explorer.md)
-- [The Hero](hero.md)
-- [The Innocent](innocent.md)
-- [The Jester](jester.md)
-- [The Lover](lover.md)
-- [The Magician](magician.md)
-- [The Outlaw](outlaw.md)
-- [The Ruler](ruler.md)
-- [The Sage](sage.md)
+- [The Creator](brand-archetypes/creator.md)
+- [The Everyman](brand-archetypes/everyman.md) 
+- [The Explorer](brand-archetypes/explorer.md)
+- [The Hero](brand-archetypes/hero.md)
+- [The Innocent](brand-archetypes/innocent.md)
+- [The Jester](brand-archetypes/jester.md)
+- [The Lover](brand-archetypes/lover.md)
+- [The Magician](brand-archetypes/magician.md)
+- [The Outlaw](brand-archetypes/outlaw.md)
+- [The Ruler](brand-archetypes/ruler.md)
+- [The Sage](brand-archetypes/sage.md)
 
 ## Cialdini's 7 Methods of Persuasion
 - [Authority](authority.md)
