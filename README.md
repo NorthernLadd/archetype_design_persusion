@@ -40,7 +40,7 @@ Below is each members name, archetype, and a link to their page that explains wh
 3. [Brick & Batten](modern_style_md_files/modern_style_3.md)
 4. [James McNeal Architecture & Design](modern_style_md_files/modern_style_4.md)
 5. [Sydney Opera House](modern_style_md_files/modern_style_5.md)
-6. [Vitra House]((modern_style_md_files/modern_style_6.md)
+6. [Vitra House](modern_style_md_files/modern_style_6.md)
 ### Post Modernism - 6 styles 
 1. [Vanna Venturi House](post_modernism_style_1.md)
 2. [Piazza d'Italia by Charles Moore](post_modernism_style_2.md)
