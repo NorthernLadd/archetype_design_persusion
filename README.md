@@ -36,11 +36,11 @@ Below is each members name, archetype, and a link to their page that explains wh
 - Below, we have collected examples of architectural design that reflect modernist and postmodernist styles.
 ### Modernism - 6 styles
 1. [Space House](modern_style_md_files/modern_style_1.md)
-2. (name, link to design)
-3. (name, link to design)
-4. (name, link to design)
-5. (name, link to design)
-6. (name, link to design)
+2. [Slanted single slope](modern_style_md_files/modern_style_2.md)
+3. [Brick & Batten](modern_style_md_files/modern_style_3.md)
+4. [James McNeal Architecture & Design](modern_style_md_files/modern_style_4.md)
+5. [Sydney Opera House](modern_style_md_files/modern_style_5.md)
+6. [Vitra House]((modern_style_md_files/modern_style_6.md)
 ### Post Modernism - 6 styles 
 1. [Vanna Venturi House](post_modernism_style_1.md)
 2. [Piazza d'Italia by Charles Moore](post_modernism_style_2.md)
