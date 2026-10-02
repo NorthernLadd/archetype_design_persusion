@@ -1,10 +1,10 @@
 # Brand Archetypes, Design Styles, and Methods of Persuasion
 
 ## Introduction
-This is a spinoff of IS-117's Archetype Design Persuasion project. We first discovered our unique brand archetypes with the help of an AI model (Gemini, ChatGPT, Claude, etc...). We then asked the AI why it thinks our assigned brand archetype fits us, and also asked it to provide imagery, colors, fonts, and phrasing for examples of Robert Cialdini's methods of persuasion (see below).
+This is a spinoff of IS-117's Archetype Design Persuasion project. We first discovered our unique brand archetypes with the help of an AI model (Gemini, ChatGPT, Claude, etc...). We then asked the AI why it thinks our assigned brand archetype fits us, and also asked it to provide the imagery, colors, fonts, and phrasing for examples of Robert Cialdini's methods of persuasion (see below).
 
-### - About the Team
-Below is each members name, archetype, and a link to their page that explains why that archetype was chosen and if they agree.
+### About the Team
+Below is each members name, their archetype, and a link to their page explaining why that archetype was chosen and if they agree.
 1. [Dominique Logan, Sage](dominique_logan.md)
 2. [David Jimenez, Hero](david_jimenez.md)
 3. [Justin Santiago, Hero](justin_santiago.md)
@@ -25,15 +25,15 @@ Below is each members name, archetype, and a link to their page that explains wh
 - [The Sage](sage.md)
 
 ## Cialdini's 7 Methods of Persuasion
-- [Authority](authority.md)
-- [Consistency](consistency.md)
-- [Liking](liking.md)
-- [Reciprocity](reciprocity.md)
-- [Scarcity](scarcity.md)
-- [Social Proof](social-proof.md)
-- [Unity](unity.md)
+1. [Authority](authority.md)
+2. [Consistency](consistency.md)
+3. [Liking](liking.md)
+4. [Reciprocity](reciprocity.md)
+5. [Scarcity](scarcity.md)
+6. [Social Proof](social-proof.md)
+7. [Unity](unity.md)
 ## Design Styles Within Modernism & Postmodernism
-- Below, we have collected examples of architectural design that reflect modernist and postmodernist styles.
+Below, we have collected examples of architectural design that reflect modernist and postmodernist styles.
 ### Modernism - 6 styles
 1. [Space House](modern_style_md_files/modern_style_1.md)
 2. [Slanted single slope](modern_style_md_files/modern_style_2.md)
