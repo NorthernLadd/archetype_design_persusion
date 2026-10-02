@@ -11,18 +11,18 @@ Below is each members name, their archetype, and a link to their page explaining
 4. [Victoria Pereyra, Jester](victoria_pereyra.md)
 
 ## The 12 Brand Archetypes
-- [The Caregiver](caregiver.md)
-- [The Creator](creator.md)
-- [The Everyman](everyman.md) 
-- [The Explorer](explorer.md)
-- [The Hero](hero.md)
-- [The Innocent](innocent.md)
-- [The Jester](jester.md)
-- [The Lover](lover.md)
-- [The Magician](magician.md)
-- [The Outlaw](outlaw.md)
-- [The Ruler](ruler.md)
-- [The Sage](sage.md)
+- [The Caregiver](brand-archetypes/caregiver.md)
+- [The Creator](brand-archetypes/creator.md)
+- [The Everyman](brand-archetypes/everyman.md) 
+- [The Explorer](brand-archetypes/explorer.md)
+- [The Hero](brand-archetypes/hero.md)
+- [The Innocent](brand-archetypes/innocent.md)
+- [The Jester](brand-archetypes/jester.md)
+- [The Lover](brand-archetypes/lover.md)
+- [The Magician](brand-archetypes/magician.md)
+- [The Outlaw](brand-archetypes/outlaw.md)
+- [The Ruler](brand-archetypes/ruler.md)
+- [The Sage](brand-archetypes/sage.md)
 
 ## Cialdini's 7 Methods of Persuasion
 1. [Authority](authority.md)
@@ -36,7 +36,7 @@ Below is each members name, their archetype, and a link to their page explaining
 Below, we have collected examples of architectural design that reflect modernist and postmodernist styles.
 ### Modernism - 6 styles
 1. [Space House](modern_style_md_files/modern_style_1.md)
-2. [Slanted single slope](modern_style_md_files/modern_style_2.md)
+2. [Slanted Single Slope](modern_style_md_files/modern_style_2.md)
 3. [Brick & Batten](modern_style_md_files/modern_style_3.md)
 4. [James McNeal Architecture & Design](modern_style_md_files/modern_style_4.md)
 5. [Sydney Opera House](modern_style_md_files/modern_style_5.md)
