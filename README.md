@@ -35,7 +35,7 @@ Below is each members name, archetype, and a link to their page that explains wh
 ## Design Styles Within Modernism & Postmodernism
 - Below, we have collected examples of architectural design that reflect modernist and postmodernist styles.
 ### Modernism - 6 styles
-1. (name, link to design)
+1. [Space House](modern_style_md_files/modern_style_1.md)
 2. (name, link to design)
 3. (name, link to design)
 4. (name, link to design)
